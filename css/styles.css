@@ -12,6 +12,24 @@ body {
   tr{
     background-color: #04293A;
   }
-  h1, p, h3, h5, td {
-    color: white;
+  
+  h5, td {
+    /* color: white; */
+    color: #66bfbf;
+  }
+  h1 {
+    color: #66bfbf;
+    font-weight: 900;
+    text-decoration: underline;
+  }
+  a {
+    color: #064663;
+    text-decoration: underline white;
+  }
+
+  p {
+      color: white;
+  }
+
+  h3 {
   }
